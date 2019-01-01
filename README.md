@@ -1,5 +1,6 @@
 # Tower-Battle
 A 2 player game where the aim is to destory the other players tower using your cannon and powerups
+C++, Box2D and SFML
 
 each player uses the AWSD and arrow buttons respectively 
 points are gained by hitting the other players tower blocks 
